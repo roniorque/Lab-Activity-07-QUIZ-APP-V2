@@ -1,0 +1,222 @@
+[
+    {
+        "number": 1,
+        "question": "Fear : Threat : : Anger : ?",
+        "choices": [
+            {
+                "letter": "a",
+                "label": "Compulsion"
+            },
+            {
+                "letter": "b",
+                "label": "Panic"
+            },
+            {
+                "letter": "c",
+                "label": "Provocation"
+            },
+            {
+                "letter": "d",
+                "label": "Force"
+            }
+        ]
+    },
+    {
+        "number": 2,
+        "question": "Dove : Peace?",
+        "choices": [
+            {
+                "letter": "a",
+                "label": "Crow : Scavenge"
+            },
+            {
+                "letter": "b",
+                "label": "Knife : Cut"
+            },
+            {
+                "letter": "c",
+                "label": "Lull : Storm"
+            },
+            {
+                "letter": "d",
+                "label": "Pearl : Purity"
+            }
+        ]
+    },
+    {
+        "number": 3,
+        "question": "Happiness in related to Sorrow in the same way as Comfort is related to ————",
+        "choices": [
+            {
+                "letter": "a",
+                "label": "Hardship"
+            },
+            {
+                "letter": "b",
+                "label": "Rest"
+            },
+            {
+                "letter": "c",
+                "label": "Poverty"
+            },
+            {
+                "letter": "d",
+                "label": "Difficulty"
+            }
+        ]
+    },
+    {
+        "number": 4,
+        "question": "Clock : Time :: Thermometer : ?",
+        "choices": [
+            {
+                "letter": "a",
+                "label": "Heat"
+            },
+            {
+                "letter": "b",
+                "label": "Radiation"
+            },
+            {
+                "letter": "c",
+                "label": "Energy"
+            },
+            {
+                "letter": "d",
+                "label": "Temperature"
+            }
+        ]
+    },
+    {
+        "number": 5,
+        "question": "Contamination : Food :: Infection : ?",
+        "choices": [
+            {
+                "letter": "a",
+                "label": "Germs"
+            },
+            {
+                "letter": "b",
+                "label": "Disease"
+            },
+            {
+                "letter": "c",
+                "label": "Body"
+            },
+            {
+                "letter": "d",
+                "label": "Medicine"
+            }
+        ]
+    },
+    {
+        "number": 6,
+        "question": "Arm : Elbow : : Leg : ?",
+        "choices": [
+            {
+                "letter": "a",
+                "label": "Toe"
+            },
+            {
+                "letter": "b",
+                "label": "Knee"
+            },
+            {
+                "letter": "c",
+                "label": "Thigh"
+            },
+            {
+                "letter": "d",
+                "label": "Ankle"
+            }
+        ]
+    },
+    {
+        "number": 7,
+        "question": "Race: Fatigue :: Fast: ?",
+        "choices": [
+            {
+                "letter": "a",
+                "label": "Food"
+            },
+            {
+                "letter": "b",
+                "label": "Appetite"
+            },
+            {
+                "letter": "c",
+                "label": "Hunger"
+            },
+            {
+                "letter": "d",
+                "label": "Weakness"
+            }
+        ]
+    },
+    {
+        "number": 8,
+        "question": "Inn : Traveller",
+        "choices": [
+            {
+                "letter": "a",
+                "label": "Lodging : Man"
+            },
+            {
+                "letter": "b",
+                "label": "Country : Citizen"
+            },
+            {
+                "letter": "c",
+                "label": "Dormitory : Students"
+            },
+            {
+                "letter": "d",
+                "label": "Ashram : Gurus"
+            }
+        ]
+    },
+    {
+        "number": 9,
+        "question": "ACE : FHJ : OQS : ?",
+        "choices": [
+            {
+                "letter": "a",
+                "label": "PRT"
+            },
+            {
+                "letter": "b",
+                "label": "RTU"
+            },
+            {
+                "letter": "c",
+                "label": "TVX"
+            },
+            {
+                "letter": "d",
+                "label": "UWY"
+            }
+        ]
+    },
+    {
+        "number": 10,
+        "question": "Melt : Liquid : : Freeze : ?",
+        "choices": [
+            {
+                "letter": "a",
+                "label": "Ice"
+            },
+            {
+                "letter": "b",
+                "label": "Condense"
+            },
+            {
+                "letter": "c",
+                "label": "Solid"
+            },
+            {
+                "letter": "d",
+                "label": "Crystal"
+            }
+        ]
+    }
+]
