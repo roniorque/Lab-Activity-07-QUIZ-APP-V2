@@ -57,8 +57,6 @@ try {
         ?>
     </ol>
 
-    <button type="submit" onclick="window.location.href='download.php'">Download results</button>
-
 </body>
 </html>
 
